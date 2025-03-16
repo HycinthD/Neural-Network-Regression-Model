@@ -44,8 +44,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:
-### Register Number:
+### Name: HYCINTH D
+### Register Number: 212223240055
 ```
 class NeuralNet(nn.Module):
   def __init__(self):
